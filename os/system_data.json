@@ -1,0 +1,16 @@
+{
+    "notatka": "",
+    "zadania": [],
+    "kolor_pulpitu": "#1e271f",
+    "usuniete_pliki": [
+        "jajco.sys",
+        "kernel_ogorek.dll",
+        "config_kiszony.cfg",
+        "system_pulpit.exe"
+    ],
+    "stan_konta": 83457894574875546086005987094587,
+    "historia_banku": [
+        "[20:02:22] Kupiono: Fabryka Ogórków (-500,000,000,000 zł)",
+        "[20:02:16] Kupiono: Złoty Słoik Świata (-88,888,888,888,888,888 zł)"
+    ]
+}
