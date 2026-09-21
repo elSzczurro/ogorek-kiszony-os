@@ -1,0 +1,1 @@
+Welcome to a Polish operating system created in Python just for fun; login passwords are displayed on the login screen. It is best not to use the beta panel on the 'admin123' account. The system is currently available only in Polish, though other languages ​​might be added soon. Thanks for reading, and have a nice day!
